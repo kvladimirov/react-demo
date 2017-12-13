@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+li {
+  list-style: none;
+}
+h3 {
+  color: red;
+}
+
+input:invalid {
+  background-color: #ffdddd;
+}
+form:invalid {
+  border: 5px solid #ffdddd;
+}
+input:valid {
+  background-color: #ddffdd;
+}
+form:valid {
+  border: 5px solid #ddffdd;
+}
+input:required {
+  border-color: #800000;
+  border-width: 3px;
+}ssssssss
