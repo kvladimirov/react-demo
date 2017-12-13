@@ -6,7 +6,7 @@ export class About extends Component {
         super(props);
 
         this.state = {
-            title: 'My About Page'
+            title: 'About Page'
         }
         
     }
